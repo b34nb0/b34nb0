@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning/working with Typescript, MERN stack, Python, GraphQL
 - 💞️ I’m looking to collaborate on React.js/Next.js projects
-- 📫 Reach me at: fbhirakata@gmail.com
+- 📫 Reach me at: fbhirakata.dev@gmail.com
 
 <!---
 b34nb0/b34nb0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
